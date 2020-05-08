@@ -23,3 +23,13 @@ p {
     left: 50%;
     transform: translate(-50%,-50%);
 }
+.socialMedia{
+    width: 100%;
+    padding-left: 20px;
+  }
+.soc>a{
+    margin: 5px;
+  }
+.soc>a>img{
+    height: 20px;
+  }
