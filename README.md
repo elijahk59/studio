@@ -25,6 +25,7 @@ This is still a work in progress. It is also a fictional page. Help in any way p
 
 ## Support and contact details
 Incase of bugs, support or just a chat you can reach me at elijahk59@gmail.com
+Visit the page at https://elijahk59.github.io/studio/
 
 ### License
 *MIT Licence*
