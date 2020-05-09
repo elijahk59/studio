@@ -3,25 +3,31 @@
     background-size: cover;
     background-position: center;  
 }
-h3 {
+h3.welcome {
     color: white;
     font-size: 30px;
   }
-p {
+h6.welcome {
     font-size: 15px;
     color: white;
 }
-.overlay{
+.overlay {
     background: rgba(0,0,0,0.3);
     height: inherit;
     width: inherit;
     z-index: 2;
 }
-.center{
+.center {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
+}
+.about {
+
+}
+.service{
+
 }
 .socialMedia{
     width: 100%;
