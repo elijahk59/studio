@@ -3,11 +3,11 @@
   background-size: cover;
   background-position: center;  
 }
-h3.welcome {
+.welcome h3 {
   color: white;
   font-size: 30px;
   }
-h6.welcome {
+.welcome h6 {
   font-size: 15px;
   color: white;
 }
@@ -23,10 +23,23 @@ h6.welcome {
   left: 50%;
   transform: translate(-50%,-50%);
 }
+#logo {
+  position: relative;
+  bottom: 30px;
+}
+#click {
+  position: relative;
+  bottom: -180px;
+}
 .about {
+  padding: 20px;
 
 }
 .service{
+  padding-top: 18vh;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
 
 }
 .socialMedia{
