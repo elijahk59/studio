@@ -36,8 +36,8 @@ body {
   left: 50%;
   transform: translate(-50%,-50%);
 }
-.service {
-  padding-top: 10%;
+.serv {
+  padding-top: 10px;
   color: white;
   padding-left: 10px;
   padding-right: 10px;
@@ -52,7 +52,7 @@ body {
 }
 .socialMedia {
   width: 100%;
-  padding-left: 20px;
+  padding-top: 20px;
 }
 .soc>a {
   margin: 5px;
